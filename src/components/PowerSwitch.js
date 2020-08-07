@@ -74,7 +74,7 @@ class PowerSwitch extends React.Component {
 		const { value } = this.props;
 		//when prev animation finished
 		if (prevProps.value !== value) {
-			const audio = new Audio("/sounds/switch.mp3");
+			const audio = new Audio("sounds/switch.mp3");
 			audio.play();
 		}
 	}
