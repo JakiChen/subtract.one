@@ -112,8 +112,8 @@ function BottomBar({ onboardingReset, setPatchLink, show, sharePatch }) {
 						<button onClick={onboardingReset}>How to use </button>
 					</Item>,
 					<Item {...animate}>
-						<span>Code by </span>
-						{/* <a
+						{/* <span>Code by </span>
+						<a
 							target="_blank"
 							rel="noopener noreferrer"
 							href="https://twitter.com/juliussohn"
