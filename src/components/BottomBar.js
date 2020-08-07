@@ -54,7 +54,7 @@ function BottomBar({ onboardingReset, setPatchLink, show, sharePatch }) {
 	};
 
 	async function share() {
-		const url = "https://subtract.one";
+		const url = "https://jakichen.github.io/subtract.one/";
 
 		//const url = "http://localhost:3000";
 		const state = store.getState();
