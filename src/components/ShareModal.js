@@ -167,7 +167,7 @@ function BottomBar({ shareModal, patchLink, closeShareModal }) {
 					transition={{ type: "spring", stiffness: 100, damping: 300 }}
 				>
 					<Close onClick={closeModal}>
-						<img alt="close" src="/images/x.svg" />
+						<img alt="close" src="images/x.svg" />
 					</Close>
 					<Header>
 						<div>
@@ -189,14 +189,14 @@ function BottomBar({ shareModal, patchLink, closeShareModal }) {
 							rel="noopener noreferrer"
 							href={`https://twitter.com/intent/tweet?url=${patchLink}`}
 						>
-							<img alt="Twitter" src="/images/twitter.svg" />
+							<img alt="Twitter" src="images/twitter.svg" />
 						</SocialShare>
 						<SocialShare
 							target="_blank"
 							rel="noopener noreferrer"
 							href={`https://www.facebook.com/sharer/sharer.php?u=${patchLink}`}
 						>
-							<img alt="Facebook" src="/images/facebook.svg" />
+							<img alt="Facebook" src="images/facebook.svg" />
 						</SocialShare>
 					</ShareOptions>
 				</Modal>,
