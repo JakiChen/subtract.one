@@ -127,7 +127,7 @@ function BottomBar({ onboardingReset, setPatchLink, show, sharePatch }) {
 							rel="noopener noreferrer"
 							href="https://www.linkedin.com/in/jakichen/"
 						>
-							Jaki Chen
+							Jaki Chen - Action test
 						</a>
 					</Item>,
 					<Item {...animate}>
