@@ -154,7 +154,7 @@ class WaveformSelector extends React.Component {
 		this.state = {};
 
 		this.shapes = ["sine", "triangle", "sawtooth", "square"];
-		this.audio = new Audio("/sounds/switch.mp3");
+		this.audio = new Audio("sounds/switch.mp3");
 	}
 
 	componentDidMount() {
@@ -172,7 +172,7 @@ class WaveformSelector extends React.Component {
 
 	select(type) {
 		const { module, moduleIndex } = this.props;
-		const audio = new Audio("/sounds/switch.mp3");
+		const audio = new Audio("sounds/switch.mp3");
 		audio.play();
 		this.props.setParam(module, moduleIndex, "type", type);
 	}
