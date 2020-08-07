@@ -113,15 +113,15 @@ function BottomBar({ onboardingReset, setPatchLink, show, sharePatch }) {
 					</Item>,
 					<Item {...animate}>
 						<span>Code by </span>
-						<a
+						{/* <a
 							target="_blank"
 							rel="noopener noreferrer"
 							href="https://twitter.com/juliussohn"
 						>
 							Julius Sohn
 						</a>
-						&nbsp;
-						<span>Reverse by </span>
+						&nbsp; */}
+						<span>Made by </span>
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
