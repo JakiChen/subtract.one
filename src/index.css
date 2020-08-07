@@ -2,13 +2,13 @@
     font-family: Syne Regular;
     font-style: normal;
     font-weight: 400;
-    src: local("Syne Regular"), url("%PUBLIC_URL%/fonts/Syne-Regular.woff.html") format("woff")
+    src: local("Syne Regular"), url("/fonts/Syne-Regular.woff.html") format("woff")
 }
 @font-face {
     font-family: Syne Bold;
     font-style: normal;
     font-weight: 400;
-    src: local("Syne Bold"), url("%PUBLIC_URL%/fonts/Syne-Bold.woff") format("woff")
+    src: local("Syne Bold"), url("/fonts/Syne-Bold.woff") format("woff")
 }
 body {
     margin: 0;
