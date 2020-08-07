@@ -232,7 +232,7 @@ class AnimatedText extends React.Component {
 					this.animationComplete("images");
 				}}
 			>
-				<img alt={item.text} src={`/images/${item.image}`} />
+				<img alt={item.text} src={`images/${item.image}`} />
 				<ImageLabel>{item.text}</ImageLabel>
 				{item.small && <ImageSmallLabel>{item.small}</ImageSmallLabel>}
 			</Image>
