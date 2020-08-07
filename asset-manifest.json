@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/subtract.one/static/css/main.b1f381f5.chunk.css",
-    "main.js": "/subtract.one/static/js/main.560e7780.chunk.js",
-    "main.js.map": "/subtract.one/static/js/main.560e7780.chunk.js.map",
+    "main.js": "/subtract.one/static/js/main.a70aa5ea.chunk.js",
+    "main.js.map": "/subtract.one/static/js/main.a70aa5ea.chunk.js.map",
     "runtime-main.js": "/subtract.one/static/js/runtime-main.ac0a1c8f.js",
     "runtime-main.js.map": "/subtract.one/static/js/runtime-main.ac0a1c8f.js.map",
     "static/js/2.6fb8f420.chunk.js": "/subtract.one/static/js/2.6fb8f420.chunk.js",
     "static/js/2.6fb8f420.chunk.js.map": "/subtract.one/static/js/2.6fb8f420.chunk.js.map",
     "index.html": "/subtract.one/index.html",
-    "precache-manifest.86f72a7fdcd92f21b4b85d94f72e1b5a.js": "/subtract.one/precache-manifest.86f72a7fdcd92f21b4b85d94f72e1b5a.js",
+    "precache-manifest.304f5a461bf2ea99bc84a29b642cb63a.js": "/subtract.one/precache-manifest.304f5a461bf2ea99bc84a29b642cb63a.js",
     "service-worker.js": "/subtract.one/service-worker.js",
     "static/css/main.b1f381f5.chunk.css.map": "/subtract.one/static/css/main.b1f381f5.chunk.css.map",
     "static/js/2.6fb8f420.chunk.js.LICENSE.txt": "/subtract.one/static/js/2.6fb8f420.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ac0a1c8f.js",
     "static/js/2.6fb8f420.chunk.js",
     "static/css/main.b1f381f5.chunk.css",
-    "static/js/main.560e7780.chunk.js"
+    "static/js/main.a70aa5ea.chunk.js"
   ]
 }
